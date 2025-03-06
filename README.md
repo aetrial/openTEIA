@@ -1,1 +1,1 @@
-# openTEIA
+# TEIA
